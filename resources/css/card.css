@@ -1,0 +1,12 @@
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding-top: 1.5rem;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    overflow: hidden;
+}
